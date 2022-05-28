@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Matheus de Oliveira 👋
 
 - 🔭 Atualmente trabalho com Laravel e Javascript
-- 🌱 I’m currently learning React Native
+- 🌱 Atualmente estou estudando React Native
 - 📫 Entre em contato pelo email: matheus.oliveira110101@gmail.com
 
 <div align="center">
