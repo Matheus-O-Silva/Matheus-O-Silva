@@ -1,8 +1,7 @@
-## Olá, Eu sou o Matheus de Oliveira 👋
+## Hi, I'm Matheus Oliveira 👋
 
-- 🔭 Atualmente trabalho com Laravel e Javascript
-- 🌱 Atualmente estou estudando React Native
-- 📫 Entre em contato pelo email: matheus.oliveira110101@gmail.com
+- 🔭 I'm currently work with Laravel
+- 🌱 I'm currently learning Angular
 
 <div align="center">
   <a href="https://github.com/Matheus-O-Silva">
