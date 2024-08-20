@@ -1,7 +1,7 @@
 ## Hi, I'm Matheus Oliveira 👋
 
 - 🔭 I'm currently work with Laravel
-- 🌱 I'm currently learning Angular
+- 🌱 I'm currently learning Node JS
 
 <div align="center">
   <a href="https://github.com/Matheus-O-Silva">
